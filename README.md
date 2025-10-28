@@ -110,6 +110,13 @@ Y&M Consulting Inc. is a **React 18 + TypeScript** web app powered by **Supabase
 - Predictive risk modeling (LSTM or GNN-based scoring).  
 
 ---
+---
+
+## ⚠️ DISCLAIMER
+- Frontend was made with Figma — we have **no clue how to design UI lmao** 😅  
+- This project was built for learning and prototyping purposes.  
+---
+
 
 ## 🤝 Contributors
 
