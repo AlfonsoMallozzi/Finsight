@@ -116,6 +116,13 @@ Y&M Consulting Inc. is a **React 18 + TypeScript** web app powered by **Supabase
 - Frontend was made with Figma — we have **no clue how to design UI lmao** 😅  
 - This project was built for learning and prototyping purposes.  
 ---
+---
+
+## 🔗 Devpost
+Check out our full project submission here:  
+👉 [Finsight on Devpost](https://devpost.com/software/finsight-0wsl52)
+
+---
 
 
 ## 🤝 Contributors
